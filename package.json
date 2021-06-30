@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "seedrandom": "^3.0.5",
+    "shift-refactor": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}

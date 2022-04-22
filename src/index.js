@@ -3,8 +3,8 @@ const Shift = require("shift-ast");
 const vendors = require("./vendors");
 const fs = require("fs");
 
-const filesDirectory = "files/";
-const outputDirectory = "output/";
+const filesDirectory = "../files/";
+const outputDirectory = "../output/";
 const scriptInfo = [
     {
         name: "datadome.js",
